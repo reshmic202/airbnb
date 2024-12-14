@@ -11,6 +11,7 @@ const Signup = () => {
         password:""
     })
     
+    
     const handleChange=(e)=>{
         setInfo({
             ...info,
